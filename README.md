@@ -1,23 +1,76 @@
-# Java Backend Development - Daily Learning Progress
+# Java Backend Development - 4-Day Learning Progress
 
-Welcome to my Java Backend Development learning repository! This repo contains daily updates, code samples, and projects from my Java backend journey, following a structured 3-hour daily learning schedule. The goal is to cover key Java concepts, frameworks, and tools, while practicing hands-on coding to build a strong backend development skillset.
+Welcome to my Java Backend Development learning repository! This repo contains daily updates, code samples, and projects from my Java backend journey, following a structured 11-hour daily learning schedule. The goal is to cover key Java concepts, frameworks, and tools, while practicing hands-on coding to build a strong backend development skillset within 4 days.
 
 ## 📅 Learning Schedule
 
-| Week | Session Topics |
-| --- | --- |
-| **Week 1** | Java Architecture, OOP Concepts, Abstract Classes vs Interfaces, Exception Handling, Singleton Design Pattern |
-| **Week 2** | Lambda Expressions, Functional Interfaces, Collections, Generics, Streams, HashMap |
-| **Week 3** | Multithreading, Maven Project Management |
-| **Week 4** | Spring Framework, Spring Boot Basics |
-| **Week 5** | Spring MVC, REST API Implementation, Spring AOP, Lombok, Logging |
-| **Week 6** | JDBC, Hibernate, Spring Data JPA |
-| **Week 7** | Minor Project: Digital Library |
-| **Week 8** | JUnit, Mockito, Redis & Caching |
-| **Week 9** | Spring Security, OAuth 2, Microservices |
-| **Week 10** | Kafka Integration, Major Project: E-Wallet App |
-| **Week 11** | Kafka, Spring Cloud, E-Wallet App (Continued) |
-| **Week 12** | Major Project (Continued), Deployment Process, CI/CD |
+| Day  | Session Topics |
+| ---  | --- |
+| **Day 1 (Sep 19)** | Java OOP Concepts, Abstract Classes vs Interfaces, Exception Handling, Singleton Design Pattern, Lambda Expressions |
+| **Day 2 (Sep 20)** | Functional Interfaces, Collections, Generics, Streams, HashMap, Multithreading |
+| **Day 3 (Sep 21)** | Maven Project Management, Spring Framework, Spring Boot Basics, Spring MVC, REST API Implementation |
+| **Day 4 (Sep 22)** | JUnit, Mockito, Redis & Caching, Spring Security, OAuth 2, Microservices, Kafka Integration |
+
+---
+
+### **Day 1: September 19, 2024**
+**Morning Session (6:30 AM - 12:30 PM)**  
+- Java Architecture & OOP Concepts
+- Abstract Classes vs Interfaces
+- Exception Handling
+- Singleton Design Pattern
+
+**Afternoon Session (1:30 PM - 6:30 PM)**  
+- Introduction to Lambda Expressions
+- Functional Programming Concepts
+
+**Night Session (7:30 PM - 9:30 PM)**  
+- Practice Java OOP Concepts and Lambda Expressions
+
+---
+
+### **Day 2: September 20, 2024**
+**Morning Session (6:30 AM - 12:30 PM)**  
+- Functional Interfaces & Lambda Expressions (continued)
+- Collections Framework & Generics
+
+**Afternoon Session (1:30 PM - 6:30 PM)**  
+- Streams API & HashMap Internals
+
+**Night Session (7:30 PM - 9:30 PM)**  
+- Practice Collections, Generics, Streams & HashMap
+
+---
+
+### **Day 3: September 21, 2024**
+**Morning Session (6:30 AM - 12:30 PM)**  
+- Introduction to Multithreading
+- Maven for Project Management
+- Overview of Spring Framework
+
+**Afternoon Session (1:30 PM - 6:30 PM)**  
+- Spring Boot Basics: Setup and Introduction
+- Spring MVC and REST API Development
+
+**Night Session (7:30 PM - 9:30 PM)**  
+- Practice Spring Boot & REST API Creation
+
+---
+
+### **Day 4: September 22, 2024**
+**Morning Session (6:30 AM - 12:30 PM)**  
+- JUnit Testing: Unit Testing with JUnit 5
+- Introduction to Mockito for Mocking in Unit Tests
+
+**Afternoon Session (1:30 PM - 6:30 PM)**  
+- Redis & Caching Mechanisms
+- Spring Security & OAuth 2 for Authentication
+
+**Night Session (7:30 PM - 9:30 PM)**  
+- Microservices with Spring Boot
+- Kafka Integration with Spring Cloud
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -29,18 +82,6 @@ Welcome to my Java Backend Development learning repository! This repo contains d
 - **Kafka & Redis**
 - **CI/CD Tools (Jenkins/GitHub Actions)**
 
-## 📂 Repository Structure
-
-- **Week 1**: `week1/`
-  - `Session 1 - Java OOP Concepts`
-  - `Session 2 - Abstract Classes vs Interfaces`
-  
-- **Week 2**: `week2/`
-  - `Session 3 - Lambda and Collections`
-  - `Session 4 - Streams and Generics`
-  
-... (add more as you progress)
-
 ## 🚀 Daily Progress Updates
 
 You can track my daily learning progress in this repo. Each day's practice code, examples, and notes will be uploaded with clear commit messages.
@@ -49,12 +90,7 @@ You can track my daily learning progress in this repo. Each day's practice code,
 
 - Develop expertise in Java backend development.
 - Build strong foundations in Spring Boot, REST APIs, Microservices, and more.
-- Work on real-world projects: Digital Library and E-Wallet app.
-- Successfully finish the course and be job-ready for a product-based company.
-
-## 🤝 Contributing
-
-Feel free to explore the repo and suggest improvements or ask questions by opening an issue or submitting a pull request.
+- Work on real-world projects and prepare for product-based company interviews.
 
 ---
 
